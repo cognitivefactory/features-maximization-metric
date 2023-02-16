@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier
+_commit: 0.10.2
+_src_path: https://github.com/pawamoy/copier-pdm.git
+author_email: erwan.schild@e-i.com
+author_fullname: Erwan Schild
+author_username: erwanschild
+copyright_date: '2022'
+copyright_holder: Erwan Schild
+copyright_holder_email: erwan.schild@e-i.com
+copyright_license: CeCILL-C License v1.0
+project_description: Implementation of Features Maximization Metric, an unbiased metric aimed at estimate the quality of an unsupervised classification.
+project_name: Features Maximization Metric
+python_package_command_line_name: features-maximization-metric
+python_package_distribution_name: cognitivefactory-features-maximization-metric
+python_package_import_name: cognitivefactory.features_maximization_metric
+repository_name: features-maximization-metric
+repository_namespace: cognitivefactory
+repository_provider: github.com
+use_precommit: false
