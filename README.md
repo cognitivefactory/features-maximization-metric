@@ -3,7 +3,7 @@
 [![ci](https://github.com/cognitivefactory/features-maximization-metric/workflows/ci/badge.svg)](https://github.com/cognitivefactory/features-maximization-metric/actions?query=workflow%3Aci)
 [![documentation](https://img.shields.io/badge/docs-mkdocs%20material-blue.svg?style=flat)](https://cognitivefactory.github.io/features-maximization-metric/)
 [![pypi version](https://img.shields.io/pypi/v/cognitivefactory-features-maximization-metric.svg)](https://pypi.org/project/cognitivefactory-features-maximization-metric/)
-TODO:[![DOI](https://zenodo.org/badge/DOI/XX.XXXX/zenodo.YYYYYYY.svg)](https://doi.org/XX.XXXX/zenodo.YYYYYYY)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7646382.svg)](https://doi.org/10.5281/zenodo.7646382)
 
 Implementation of _Features Maximization Metric_, an unbiased metric aimed at estimate the quality of an unsupervised classification.
 
@@ -106,4 +106,4 @@ To work on this project or contribute to it, please read:
 
 ## <a name="How to cite"></a> How to cite	
 
-`Schild, E. (2023). cognitivefactory/features-maximization-metrics. Zenodo. https://doi.org/XX.XXXX/zenodo.YYYYYYY.`
+`Schild, E. (2023). cognitivefactory/features-maximization-metric. Zenodo. https://doi.org/10.5281/zenodo.7646382.`
