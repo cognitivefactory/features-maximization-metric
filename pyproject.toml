@@ -42,7 +42,7 @@ dependencies = [
     "scikit-learn>=0.24.1",
     "scipy>=1.7.3",
 	
-    # technical dependencies.
+    # Technical dependencies.
 	# None,
 	
     # Safety dependencies.
@@ -131,7 +131,7 @@ tests = [
     "pytest-xdist>=2.4",
 ]
 maintain = [
-    "git-changelog>=0.4",
+    "git-changelog>=0.4,<1.0",
 ]
 
 [tool.black]
