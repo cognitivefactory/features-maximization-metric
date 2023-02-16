@@ -708,7 +708,7 @@ class FeaturesMaximizationMetric:
         rounded: Optional[int] = None,
     ) -> Tuple[float, float, float]:
         """
-        Gives a similarity score in agreement with an reference FMC modelization.
+        Gives a similarity score in agreement with a reference FMC modelization.
         The similarity score computation is based on common metrics on clustering (homogeneity, completeness, v_measure),
         where each FMC modelization is represented by the Features Activation of their vector features.
         In order to be able to compute these similarity, data classes can be different, but vector features must be the same in both FMC modelization.
