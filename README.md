@@ -10,7 +10,7 @@ Implementation of _Features Maximization Metric_, an unbiased metric aimed at es
 
 ## <a name="Description"></a> Quick description
 
-_Features Maximization_ (`FMC`) is a features selection method described in `Lamirel J.-C., Cuxac P., Hajlaoui K., A new approach for feature selection based on quality metric, Advances in Knowledge Discovery and Management, 6 (665), Springer.`
+_Features Maximization_ (`FMC`) is a features selection method described in `Lamirel, J.-C., Cuxac, P., & Hajlaoui, K. (2016). A Novel Approach to Feature Selection Based on Quality Estimation Metrics. In Advances in Knowledge Discovery and Management (pp. 121–140). Springer International Publishing. https://doi.org/10.1007/978-3-319-45763-5_7`.
 
 This metric is computed by applying the following steps:
 
@@ -100,7 +100,7 @@ To work on this project or contribute to it, please read:
 
 ## <a name="References"></a> References
 
-- **Features Maximization Metric**: `Lamirel J.-C., Cuxac P., Hajlaoui K., A new approach for feature selection based on quality metric, Advances in Knowledge Discovery and Management, 6 (665), Springer.`
+- **Features Maximization Metric**: `Lamirel, J.-C., Cuxac, P., & Hajlaoui, K. (2016). A Novel Approach to Feature Selection Based on Quality Estimation Metrics. In Advances in Knowledge Discovery and Management (pp. 121–140). Springer International Publishing. https://doi.org/10.1007/978-3-319-45763-5_7`
 - **V-Measure**: `Rosenberg, Andrew & Hirschberg, Julia. (2007). V-Measure: A Conditional Entropy-Based External Cluster Evaluation Measure. 410-420.`
 
 

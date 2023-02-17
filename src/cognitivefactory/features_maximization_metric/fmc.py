@@ -189,7 +189,7 @@ class FeaturesMaximizationMetric:
         ```
 
     References:
-        - Features Maximization Metric: `Lamirel J.-C., Cuxac P., Hajlaoui K., A new approach for feature selection based on quality metric, Advances in Knowledge Discovery and Management, 6 (665), Springer.`
+        - Features Maximization Metric: `Lamirel, J.-C., Cuxac, P., & Hajlaoui, K. (2016). A Novel Approach to Feature Selection Based on Quality Estimation Metrics. In Advances in Knowledge Discovery and Management (pp. 121–140). Springer International Publishing. https://doi.org/10.1007/978-3-319-45763-5_7`
     """
 
     # =========================================================================================
