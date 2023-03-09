@@ -722,7 +722,7 @@ class FeaturesMaximizationMetric:
             ValueError: if `list_of_possible_features` are different.
 
         Returns:
-            Tuple[float, float, float]: Computation
+            Tuple[float, float, float]: Computation of homogeneity, completeness and v_measure.
         """
 
         ###
