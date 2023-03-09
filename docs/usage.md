@@ -8,7 +8,7 @@
 ### Python dependencies.
 ###
 
-from cognitivefactory.feature_maximization_metric.fmc import FeaturesMaximizationMetric
+from cognitivefactory.features_maximization_metric.fmc import FeaturesMaximizationMetric
 from scipy.sparse import csr_matrix
 from typing import List
 ```
