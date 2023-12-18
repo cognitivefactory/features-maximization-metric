@@ -100,8 +100,8 @@ To work on this project or contribute to it, please read:
 
 ## <a name="References"></a> References
 
-- **Features Maximization Metric**: `Lamirel, J.-C., Cuxac, P., & Hajlaoui, K. (2016). A Novel Approach to Feature Selection Based on Quality Estimation Metrics. In Advances in Knowledge Discovery and Management (pp. 121–140). Springer International Publishing. https://doi.org/10.1007/978-3-319-45763-5_7`
-- **V-Measure**: `Rosenberg, Andrew & Hirschberg, Julia. (2007). V-Measure: A Conditional Entropy-Based External Cluster Evaluation Measure. 410-420.`
+- **Features Maximization Metric**: `Lamirel, J.-C., Cuxac, P., & Hajlaoui, K. (2016). A Novel Approach to Feature Selection Based on Quality Estimation Metrics. In Advances in Knowledge Discovery and Management (pp. 121–140). Springer International Publishing. https://doi.org/10.1007/978-3-319-45763-5_7` ;
+- **V-Measure**: `Rosenberg, Andrew & Hirschberg, Julia. (2007). V-Measure: A Conditional Entropy-Based External Cluster Evaluation Measure. 410-420.`.
 
 
 ## <a name="How to cite"></a> How to cite	
