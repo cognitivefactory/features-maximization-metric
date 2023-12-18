@@ -765,15 +765,15 @@ class FeaturesMaximizationMetric:
         # Browse activated features toà compare Features Activation.
         for feature in fmc_reference.list_of_possible_features:
             # Get Features Activation.
-            list_of_most_activated_classes_for_feature_in_self: List[
-                str
-            ] = self.get_most_activated_classes_by_a_feature(
-                feature=feature,
+            list_of_most_activated_classes_for_feature_in_self: List[str] = (
+                self.get_most_activated_classes_by_a_feature(
+                    feature=feature,
+                )
             )
-            list_of_most_activated_classes_for_feature_in_reference: List[
-                str
-            ] = fmc_reference.get_most_activated_classes_by_a_feature(
-                feature=feature,
+            list_of_most_activated_classes_for_feature_in_reference: List[str] = (
+                fmc_reference.get_most_activated_classes_by_a_feature(
+                    feature=feature,
+                )
             )
 
             # TODO: Skip if feature is not activated in both modelization.
